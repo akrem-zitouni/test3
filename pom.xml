@@ -17,6 +17,9 @@
 	<description>Projet Final Java Talan Academy</description>
 
 	<properties>
+		<sonar.projectKey>akrem-zitouni_test3</sonar.projectKey>
+  <sonar.organization>akrem-zitouni</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<java.version>11</java.version>
 	</properties>
 
